@@ -1,7 +1,5 @@
-# Chi-Squared-test
 Learning Chi-Squared test
 
-# Chi-Square test
 # It used to determine whether any association of two variables is there or not
 
 #will import csv.file which include treatment vs. improvement
