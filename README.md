@@ -4,4 +4,5 @@ Learning Chi-Squared test
 
 #will import csv.file which include treatment vs. improvement
 #as per table we have to check whether treatment and improvement has any relationship or not.
-#Like person who is under medical care or treatment is improving after treatment and even after giving treatment they are not improving. 
+#Like person who is under medical care or treatment is improving after treatment and even after giving treatment they are not improving.  
+#For that will perform Hypothesis test with chi square test...
